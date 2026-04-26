@@ -1,16 +1,101 @@
-## Hi there 👋
+# Olá, sou Kevely Santos 👋
 
-<!--
-**Kevelee02/Kevelee02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Cientista de Dados** com atuação em **Machine Learning, Modelagem Estatística e Analytics**, desenvolvendo projetos ponta a ponta em dados — da exploração até modelagem e deploy.
 
-Here are some ideas to get you started:
+Meu foco é transformar dados em decisões e construir soluções preditivas com impacto 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+🎯 Sou de Salvador - BA e atuo com dados em estágio/projetos aplicados.
+
+📈 Experiência com:
+- Análise de Dados  
+- Machine Learning  
+- Séries Temporais  
+- Modelagem Estatística  
+- Predição e Classificação
+
+🧠 Interesse em:
+- Data Science
+- MLOps
+- Engenharia de Dados
+
+📊 Já desenvolvi projetos com:
+
+- Predição de risco com classificação
+- Forecasting com séries temporais
+- Competições Kaggle
+- Modelos estatísticos em Python e SAS
+- Dashboards e Analytics
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+- Python
+- SQL
+- SAS
+- R 
+
+### Data Science / ML
+- Pandas  
+- Numpy  
+- Scikit-learn  
+- XGBoost  
+- CatBoost  
+- Statsmodels 
+
+### Visualização
+- Power BI  
+- Looker  
+- Matplotlib  
+- Seaborn  
+
+### Dados e Engenharia
+- SQL
+- ETL
+- Git / GitHub
+- Google Sheets
+
+---
+
+# 📂 Projetos em Destaque
+
+## 📌 Machine Learning
+- Predição de Diabetes
+- Classificação de risco de atraso
+- Modelos de classificação supervisionada
+
+## ⏳ Time Series
+- Forecasting de consumo de gás
+- Séries temporais com ARIMA / SARIMAX
+
+## 🏆 Kaggle
+- Competições com XGBoost, Ensembles e Feature Engineering
+
+---
+
+## 📚 Atualmente estudando
+- MLOps
+- Engenharia de Dados
+- Modelos Lineares
+- Deep Learning
+- Deploy e monitoramento de modelos
+
+---
+
+## 🌎 Onde me encontrar
+
+💼 LinkedIn: www.linkedin.com/in/kevelywiliam
+
+📩 E-mail: keveleewiliam@gmail.com
+
+🏆 Kaggle: https://www.kaggle.com/kevely
+
+---
+
+## 🔖 Keywords
+Data Science • Machine Learning • Python • Forecasting • Statistics • SQL • Analytics • Predictive Modeling • MLOps
