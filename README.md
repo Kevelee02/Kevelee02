@@ -1,4 +1,4 @@
-# Olá, sou Kevely Santos 👋
+# Olá, sou Kevely Santos 
 
 Sou **Cientista de Dados** com atuação em **Machine Learning, Modelagem Estatística e Analytics**, desenvolvendo projetos ponta a ponta em dados — da exploração até modelagem e deploy.
 
@@ -6,23 +6,23 @@ Meu foco é transformar dados em decisões e construir soluções preditivas com
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-🎯 Sou de Salvador - BA e atuo com dados em estágio/projetos aplicados.
+ Sou de Salvador - BA e atuo com dados em projetos aplicados.
 
-📈 Experiência com:
+ Experiência com:
 - Análise de Dados  
 - Machine Learning  
 - Séries Temporais  
 - Modelagem Estatística  
 - Predição e Classificação
 
-🧠 Interesse em:
+ Interesse em:
 - Data Science
 - MLOps
 - Engenharia de Dados
 
-📊 Já desenvolvi projetos com:
+Já desenvolvi projetos com:
 
 - Predição de risco com classificação
 - Forecasting com séries temporais
@@ -32,7 +32,7 @@ Meu foco é transformar dados em decisões e construir soluções preditivas com
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+#  Tecnologias e Ferramentas
 
 ### Linguagens
 - Python
@@ -62,23 +62,23 @@ Meu foco é transformar dados em decisões e construir soluções preditivas com
 
 ---
 
-# 📂 Projetos em Destaque
+# Projetos em Destaque
 
-## 📌 Machine Learning
+##  Machine Learning
 - Predição de Diabetes
 - Classificação de risco de atraso
 - Modelos de classificação supervisionada
 
-## ⏳ Time Series
+##  Time Series
 - Forecasting de consumo de gás
 - Séries temporais com ARIMA / SARIMAX
 
-## 🏆 Kaggle
+##  Kaggle
 - Competições com XGBoost, Ensembles e Feature Engineering
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 - MLOps
 - Engenharia de Dados
 - Modelos Lineares
@@ -87,7 +87,7 @@ Meu foco é transformar dados em decisões e construir soluções preditivas com
 
 ---
 
-## 🌎 Onde me encontrar
+##  Onde me encontrar
 
 💼 LinkedIn: www.linkedin.com/in/kevelywiliam
 
@@ -97,5 +97,5 @@ Meu foco é transformar dados em decisões e construir soluções preditivas com
 
 ---
 
-## 🔖 Keywords
+##  Keywords
 Data Science • Machine Learning • Python • Forecasting • Statistics • SQL • Analytics • Predictive Modeling • MLOps
