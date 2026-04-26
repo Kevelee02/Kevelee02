@@ -1,34 +1,22 @@
-# Olá, sou Kevely Santos 
+# Me chamo Kevely Santos 
 
-Sou **Cientista de Dados** com atuação em **Machine Learning, Modelagem Estatística e Analytics**, desenvolvendo projetos ponta a ponta em dados — da exploração até modelagem e deploy.
-
-Meu foco é transformar dados em decisões e construir soluções preditivas com impacto 📊
+Sou **Cientista de Dados** com atuação em **Machine Learning, Modelagem Estatística e Analytics**, desenvolvendo projetos ponta a ponta em dados, da exploração até modelagem e deploy.
 
 ---
 
-## Sobre mim
+##  Sobre mim
 
- Sou de Salvador - BA e atuo com dados em projetos aplicados.
+Salvador/Bahia
 
- Experiência com:
-- Análise de Dados  
-- Machine Learning  
-- Séries Temporais  
-- Modelagem Estatística  
-- Predição e Classificação
+Experiência em análise de dados, machine learning, séries temporais e modelagem estatística.
 
- Interesse em:
-- Data Science
-- MLOps
-- Engenharia de Dados
+ Atuação com problemas de predição, classificação e forecasting.
 
-Já desenvolvi projetos com:
+🧠 Interesse em Data Science, MLOps e Engenharia de Dados.
 
-- Predição de risco com classificação
-- Forecasting com séries temporais
-- Competições Kaggle
-- Modelos estatísticos em Python e SAS
-- Dashboards e Analytics
+🏆 Desenvolvimento de projetos com modelos preditivos, competições Kaggle e analytics.
+
+🛠️ Ferramentas técnicas: Python, SQL, SAS, Scikit-learn, XGBoost, Power BI e Git.
 
 ---
 
@@ -76,15 +64,6 @@ Já desenvolvi projetos com:
 
 ##  Kaggle
 - Competições com XGBoost, Ensembles e Feature Engineering
-
----
-
-##  Atualmente estudando
-- MLOps
-- Engenharia de Dados
-- Modelos Lineares
-- Deep Learning
-- Deploy e monitoramento de modelos
 
 ---
 
